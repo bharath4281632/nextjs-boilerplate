@@ -1,2 +1,8 @@
-node_modules
-.next/
+# Dependencies
+/node_modules
+
+# Nextjs
+/.next
+
+# log files
+npm-debug.log*
